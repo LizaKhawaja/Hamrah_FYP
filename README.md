@@ -1,4 +1,4 @@
-# Hamrah — Student Ride-Sharing Platform
+# Hamrah 
 
 Hamrah is a university-focused ride-sharing and carpooling application designed to help students coordinate rides in a convenient and organized way. The platform connects passengers with drivers and provides features for ride management, communication, and location tracking.
 
