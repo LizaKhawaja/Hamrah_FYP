@@ -1,0 +1,451 @@
+dsu_reg_id.,full_name,department,gender,email
+cs232322,Bushra Ahmed,Computer Science,female,bushra.ahmed@gmail.com
+cs221965,Junaid Abbasi,Computer Science,male,junaid.abbasi@gmail.com
+cs252845,Zain Bukhari,Computer Science,male,zain.bukhari@gmail.com
+cs242323,Zainab Raza,Computer Science,female,zainab.raza@gmail.com
+cs242408,Moiz Shah,Computer Science,male,moiz.shah@outlook.com
+cs231830,Hamza Nawaz,Computer Science,male,hamza.nawaz@gmail.com
+cs221297,Taha Nazir,Computer Science,male,taha.nazir@gmail.com
+cs242541,Huzaifa Bukhari,Computer Science,male,huzaifa.bukhari@gmail.com
+cs252686,Pooja Mukherjee,Computer Science,male,pooja.mukherjee@gmail.com
+cs241503,Isha Nair,Computer Science,male,isha.nair@yahoo.com
+cs242304,Fatima Rasheed,Computer Science,female,fatima.rasheed@gmail.com
+cs241328,Shahzaib Nawaz,Computer Science,male,shahzaib.nawaz@gmail.com
+cs242375,Kritika Iyer,Computer Science,male,kritika.iyer@gmail.com
+cs231431,Owais Qureshi,Computer Science,male,owais.qureshi@gmail.com
+cs241092,Varun Mishra,Computer Science,male,varun.mishra@gmail.com
+cs231313,Shiza Rajput,Computer Science,female,shiza.rajput@gmail.com
+cs231799,Bushra Rajput,Computer Science,female,bushra.rajput@gmail.com
+cs251900,Laiba Malik,Computer Science,female,laiba.malik@outlook.com
+cs252438,Rehan Qureshi,Computer Science,male,rehan.qureshi@gmail.com
+cs232528,Ali Rajput,Computer Science,male,ali.rajput@gmail.com
+cs232704,Rehan Abbasi,Computer Science,male,rehan.abbasi@gmail.com
+cs241923,Rida Javed,Computer Science,female,rida.javed@yahoo.com
+cs232876,Arjun Kumar,Computer Science,male,arjun.kumar@gmail.com
+cs232153,Adnan Rizvi,Computer Science,male,adnan.rizvi@gmail.com
+cs241041,Sameer Mehmood,Computer Science,male,sameer.mehmood@gmail.com
+cs232381,Sneha Jain,Computer Science,male,sneha.jain@gmail.com
+cs252623,Sara Mehmood,Computer Science,female,sara.mehmood@gmail.com
+cs251834,Saad Zaidi,Computer Science,male,saad.zaidi@gmail.com
+cs231131,Naveed Javed,Computer Science,male,naveed.javed@gmail.com
+cs221930,Bilal Mehmood,Computer Science,male,bilal.mehmood@gmail.com
+cs241800,Waleed Mughal,Computer Science,male,waleed.mughal@gmail.com
+cs242330,Arslan Rehman,Computer Science,male,arslan.rehman@gmail.com
+cs231982,Zain Chaudhry,Computer Science,male,zain.chaudhry@gmail.com
+cs242052,Saman Mirza,Computer Science,female,saman.mirza@gmail.com
+cs241285,Rida Chaudhry,Computer Science,female,rida.chaudhry@gmail.com
+cs221056,Junaid Rasheed,Computer Science,male,junaid.rasheed@gmail.com
+cs232999,Rahul Malhotra,Computer Science,male,rahul.malhotra@gmail.com
+cs231390,Aqsa Naqvi,Computer Science,female,aqsa.naqvi@gmail.com
+cs231004,Iffat Farooq,Computer Science,female,iffat.farooq@gmail.com
+cs252261,Rafay Farooq,Computer Science,male,rafay.farooq@gmail.com
+cs231082,Mustafa Rasheed,Computer Science,male,mustafa.rasheed@gmail.com
+cs252283,Rizwan Rizvi,Computer Science,male,rizwan.rizvi@gmail.com
+cs222687,Kavya Chopra,Computer Science,female,kavya.chopra@yahoo.com
+cs242605,Faizan Qureshi,Computer Science,male,faizan.qureshi@gmail.com
+cs241990,Urooj Rafiq,Computer Science,female,urooj.rafiq@outlook.com
+cs232624,Diya Jain,Computer Science,male,diya.jain@gmail.com
+cs242874,Anaya Khan,Computer Science,female,anaya.khan@gmail.com
+cs242205,Aarti Chopra,Computer Science,male,aarti.chopra@gmail.com
+cs222472,Mahnoor Nawaz,Computer Science,female,mahnoor.nawaz@gmail.com
+cs251919,Shehryar Zaidi,Computer Science,male,shehryar.zaidi@gmail.com
+cs251441,Sikandar Aslam,Computer Science,male,sikandar.aslam@gmail.com
+cs232919,Rafay Rajput,Computer Science,male,rafay.rajput@gmail.com
+cs222757,Arslan Malik,Computer Science,male,arslan.malik@gmail.com
+cs252443,Anusha Farooq,Computer Science,female,anusha.farooq@gmail.com
+cs222361,Umar Rajput,Computer Science,male,umar.rajput@gmail.com
+cs231719,Arslan Arain,Computer Science,male,arslan.arain@gmail.com
+cs221443,Nisha Gandhi,Computer Science,male,nisha.gandhi@gmail.com
+cs231325,Esha Nawaz,Computer Science,female,esha.nawaz@gmail.com
+cs242741,Azhar Ali,Computer Science,male,azhar.ali@gmail.com
+cs252981,Hamza Zaidi,Computer Science,male,hamza.zaidi@gmail.com
+cs222694,Talha Qureshi,Computer Science,male,talha.qureshi@gmail.com
+cs252207,Huzaifa Hussain,Computer Science,male,huzaifa.hussain@gmail.com
+cs242110,Hassan Mughal,Computer Science,male,hassan.mughal@gmail.com
+cs242517,Fahad Rasheed,Computer Science,male,fahad.rasheed@gmail.com
+cs242177,Shayan Rizvi,Computer Science,male,shayan.rizvi@gmail.com
+se251506,Hassan Javed,Software Engineering,male,hassan.javed@gmail.com
+se222518,Anum Rafiq,Software Engineering,female,anum.rafiq@gmail.com
+se251531,Ananya Verma,Software Engineering,male,ananya.verma@gmail.com
+se242460,Fahad Rasheed,Software Engineering,male,fahad.rasheed65@gmail.com
+se232215,Faizan Nawaz,Software Engineering,male,faizan.nawaz@gmail.com
+se252515,Zubair Mehmood,Software Engineering,male,zubair.mehmood@gmail.com
+se232515,Saman Rajput,Software Engineering,female,saman.rajput@gmail.com
+se242474,Shahzaib Rizvi,Software Engineering,male,shahzaib.rizvi@gmail.com
+se231375,Urooj Iqbal,Software Engineering,female,urooj.iqbal@yahoo.com
+se231599,Fahad Raza,Software Engineering,male,fahad.raza@gmail.com
+se242535,Anaya Sheikh,Software Engineering,female,anaya.sheikh@gmail.com
+se251678,Saad Javed,Software Engineering,male,saad.javed@gmail.com
+se231827,Furqan Rafiq,Software Engineering,male,furqan.rafiq@gmail.com
+se232955,Arslan Nawaz,Software Engineering,male,arslan.nawaz@outlook.com
+se232103,Zeeshan Yousaf,Software Engineering,male,zeeshan.yousaf@yahoo.com
+se242198,Shahid Bukhari,Software Engineering,male,shahid.bukhari@gmail.com
+se221138,Meera Bhatt,Software Engineering,male,meera.bhatt@gmail.com
+se242549,Waleed Tariq,Software Engineering,male,waleed.tariq@gmail.com
+se252982,Neha Trivedi,Software Engineering,male,neha.trivedi@gmail.com
+se222595,Zainab Nawaz,Software Engineering,female,zainab.nawaz@gmail.com
+se242140,Vikram Bhatia,Software Engineering,male,vikram.bhatia@gmail.com
+se221965,Kabir Trivedi,Software Engineering,female,kabir.trivedi@gmail.com
+se221337,Rizwan Malik,Software Engineering,male,rizwan.malik@gmail.com
+se251965,Huzaifa Rehman,Software Engineering,male,huzaifa.rehman@gmail.com
+se222355,Pranav Singh,Software Engineering,male,pranav.singh@outlook.com
+se232252,Zeeshan Rehman,Software Engineering,male,zeeshan.rehman@gmail.com
+se222578,Maham Javed,Software Engineering,female,maham.javed@gmail.com
+se231548,Noman Rajput,Software Engineering,male,noman.rajput@gmail.com
+se221074,Furqan Bukhari,Software Engineering,male,furqan.bukhari@gmail.com
+se241863,Hassan Shah,Software Engineering,male,hassan.shah@gmail.com
+se231271,Yash Verma,Software Engineering,male,yash.verma@gmail.com
+se242195,Shreya Banerjee,Software Engineering,male,shreya.banerjee@gmail.com
+se231028,Asad Malik,Software Engineering,male,asad.malik@gmail.com
+se242217,Zain Siddiqui,Software Engineering,male,zain.siddiqui@gmail.com
+se242548,Ahsan Mughal,Software Engineering,male,ahsan.mughal@gmail.com
+se221316,Pranav Kumar,Software Engineering,male,pranav.kumar@gmail.com
+se221494,Muneeb Javed,Software Engineering,male,muneeb.javed@gmail.com
+se221168,Bushra Naqvi,Software Engineering,female,bushra.naqvi@gmail.com
+se232749,Shehryar Ahmed,Software Engineering,male,shehryar.ahmed@gmail.com
+se251671,Ammar Tariq,Software Engineering,male,ammar.tariq@gmail.com
+se221036,Eman Nawaz,Software Engineering,female,eman.nawaz@gmail.com
+se242657,Taha Akhtar,Software Engineering,male,taha.akhtar@gmail.com
+se252954,Furqan Rizvi,Software Engineering,male,furqan.rizvi@gmail.com
+se222846,Arham Zaidi,Software Engineering,male,arham.zaidi@gmail.com
+se251525,Varun Gupta,Software Engineering,female,varun.gupta@gmail.com
+se241290,Esha Qureshi,Software Engineering,female,esha.qureshi@gmail.com
+se231527,Ananya Chopra,Software Engineering,male,ananya.chopra@gmail.com
+se252179,Ammar Gill,Software Engineering,male,ammar.gill@gmail.com
+se222489,Ammar Chaudhry,Software Engineering,male,ammar.chaudhry@gmail.com
+se221206,Nitin Nair,Software Engineering,male,nitin.nair@gmail.com
+se222684,Shehryar Yousaf,Software Engineering,male,shehryar.yousaf@gmail.com
+se241037,Nitin Gupta,Software Engineering,male,nitin.gupta@outlook.com
+se231047,Ahmed Mirza,Software Engineering,male,ahmed.mirza@gmail.com
+se242761,Shayan Akhtar,Software Engineering,male,shayan.akhtar@gmail.com
+se231258,Rafay Farooq,Software Engineering,male,rafay.farooq@outlook.com
+se242395,Ali Javed,Software Engineering,male,ali.javed@gmail.com
+se221788,Rabia Hussain,Software Engineering,female,rabia.hussain@gmail.com
+se251402,Hadi Rizvi,Software Engineering,male,hadi.rizvi@gmail.com
+se241337,Hamza Malik,Software Engineering,male,hamza.malik@gmail.com
+se232691,Zubair Qureshi,Software Engineering,male,zubair.qureshi@gmail.com
+se221065,Zubair Nawaz,Software Engineering,male,zubair.nawaz@gmail.com
+se222749,Meera Malhotra,Software Engineering,male,meera.malhotra@gmail.com
+se241624,Esha Shah,Software Engineering,female,esha.shah@gmail.com
+se242534,Shiza Naqvi,Software Engineering,female,shiza.naqvi@gmail.com
+se222979,Hassan Ali,Software Engineering,male,hassan.ali@yahoo.com
+ds242996,Sikandar Ansari,Data Science,male,sikandar.ansari@gmail.com
+ds241251,Muneeb Iqbal,Data Science,male,muneeb.iqbal@gmail.com
+ds231635,Azhar Rehman,Data Science,male,azhar.rehman@gmail.com
+ds232750,Aakash Verma,Data Science,male,aakash.verma@gmail.com
+ds242287,Sikandar Shah,Data Science,male,sikandar.shah@gmail.com
+ds232173,Minal Butt,Data Science,female,minal.butt@gmail.com
+ds242450,Ahmed Tariq,Data Science,male,ahmed.tariq@gmail.com
+ds242528,Faizan Akhtar,Data Science,male,faizan.akhtar@gmail.com
+ds222993,Rahul Gupta,Data Science,male,rahul.gupta@gmail.com
+ds232024,Sikandar Ali,Data Science,male,sikandar.ali@outlook.com
+ds222185,Sumaira Saeed,Data Science,female,sumaira.saeed@gmail.com
+ds251366,Waleed Mehmood,Data Science,male,waleed.mehmood@gmail.com
+ds241669,Yasir Saeed,Data Science,male,yasir.saeed@gmail.com
+ds231391,Rabia Nazir,Data Science,female,rabia.nazir@gmail.com
+ds222602,Alina Raza,Data Science,female,alina.raza@outlook.com
+ds251217,Zeeshan Rafiq,Data Science,male,zeeshan.rafiq@gmail.com
+ds232286,Noor Chaudhry,Data Science,female,noor.chaudhry@gmail.com
+ds232503,Mustafa Gill,Data Science,male,mustafa.gill@gmail.com
+ds241671,Kamran Awan,Data Science,male,kamran.awan@gmail.com
+ds232647,Abdullah Rasheed,Data Science,male,abdullah.rasheed@gmail.com
+ds251604,Anaya Saeed,Data Science,female,anaya.saeed@gmail.com
+ds251660,Junaid Naqvi,Data Science,male,junaid.naqvi@gmail.com
+ds241990,Huma Javed,Data Science,female,huma.javed@gmail.com
+ds231429,Kashif Arain,Data Science,male,kashif.arain@gmail.com
+ds232585,Isha Thakur,Data Science,female,isha.thakur@gmail.com
+ds231462,Noman Zaidi,Data Science,male,noman.zaidi@yahoo.com
+ds251271,Faizan Awan,Data Science,male,faizan.awan@gmail.com
+ds252555,Shreya Joshi,Data Science,female,shreya.joshi@yahoo.com
+ds232093,Arham Yousaf,Data Science,male,arham.yousaf@gmail.com
+ds242429,Yasir Hussain,Data Science,male,yasir.hussain@gmail.com
+ds232229,Haroon Ahmed,Data Science,male,haroon.ahmed@gmail.com
+ds231390,Saba Rehman,Data Science,female,saba.rehman@gmail.com
+ds252110,Shiza Butt,Data Science,female,shiza.butt@gmail.com
+ds251103,Laiba Mughal,Data Science,female,laiba.mughal@gmail.com
+ds251902,Esha Aslam,Data Science,female,esha.aslam@gmail.com
+ds242521,Shivam Patel,Data Science,male,shivam.patel@gmail.com
+ds242249,Saman Raza,Data Science,female,saman.raza@gmail.com
+ds242752,Asad Raza,Data Science,male,asad.raza@gmail.com
+ds252269,Talha Butt,Data Science,male,talha.butt@gmail.com
+ds232226,Ali Rizvi,Data Science,male,ali.rizvi@gmail.com
+ds252880,Tanya Mukherjee,Data Science,male,tanya.mukherjee@outlook.com
+ds232733,Vivek Malhotra,Data Science,female,vivek.malhotra@gmail.com
+ds231334,Ananya Verma,Data Science,male,ananya.verma78@gmail.com
+ds231397,Saman Yousaf,Data Science,female,saman.yousaf@gmail.com
+ds232598,Noor Khan,Data Science,female,noor.khan@gmail.com
+ds222388,Noor Naqvi,Data Science,female,noor.naqvi@gmail.com
+ds232323,Mahesh Thakur,Data Science,male,mahesh.thakur@gmail.com
+ds232660,Zubair Rafiq,Data Science,male,zubair.rafiq@gmail.com
+ds251198,Minal Javed,Data Science,female,minal.javed@gmail.com
+ds242437,Asad Naqvi,Data Science,male,asad.naqvi@yahoo.com
+ds252235,Aqsa Awan,Data Science,female,aqsa.awan@gmail.com
+ds232161,Zain Yousaf,Data Science,male,zain.yousaf@yahoo.com
+ds241802,Sumaira Butt,Data Science,female,sumaira.butt@gmail.com
+ds241113,Yasir Akhtar,Data Science,male,yasir.akhtar@gmail.com
+ds241426,Owais Khan,Data Science,male,owais.khan@gmail.com
+ds252012,Zohaib Khan,Data Science,male,zohaib.khan@gmail.com
+ds252561,Pallavi Trivedi,Data Science,female,pallavi.trivedi@gmail.com
+ds242774,Aiman Saeed,Data Science,female,aiman.saeed@yahoo.com
+ds232268,Amit Kapoor,Data Science,female,amit.kapoor@gmail.com
+ds252176,Adnan Hussain,Data Science,male,adnan.hussain@gmail.com
+DSU123,Haroon Rafiq,Data Science,male,haroon.rafiq@gmail.com
+ds221493,Deepak Reddy,Data Science,female,deepak.reddy@gmail.com
+ds241723,Taha Siddiqui,Data Science,male,taha.siddiqui@gmail.com
+ds222464,Bilal Mughal,Data Science,male,bilal.mughal@gmail.com
+me241286,Yash Sharma,Mechanical Engineering,female,yash.sharma@gmail.com
+me251719,Varun Desai,Mechanical Engineering,male,varun.desai@gmail.com
+me252235,Varun Gandhi,Mechanical Engineering,female,varun.gandhi@gmail.com
+me251317,Shreya Mishra,Mechanical Engineering,female,shreya.mishra@outlook.com
+me251593,Talha Aslam,Mechanical Engineering,male,talha.aslam@gmail.com
+me252624,Kamran Akhtar,Mechanical Engineering,male,kamran.akhtar@gmail.com
+me222757,Radhika Chopra,Mechanical Engineering,male,radhika.chopra@gmail.com
+me231482,Rida Ali,Mechanical Engineering,female,rida.ali@gmail.com
+me251307,Pranav Bhatia,Mechanical Engineering,male,pranav.bhatia@gmail.com
+me251195,Arooba Ansari,Mechanical Engineering,female,arooba.ansari@yahoo.com
+me231131,Ali Akhtar,Mechanical Engineering,male,ali.akhtar@gmail.com
+me242586,Shahid Tariq,Mechanical Engineering,male,shahid.tariq@gmail.com
+me231539,Priya Joshi,Mechanical Engineering,male,priya.joshi@gmail.com
+me241383,Fatima Mehmood,Mechanical Engineering,female,fatima.mehmood@gmail.com
+me232227,Anaya Javed,Mechanical Engineering,female,anaya.javed@gmail.com
+me231626,Hamza Ali,Mechanical Engineering,male,hamza.ali@gmail.com
+me251113,Azhar Mughal,Mechanical Engineering,male,azhar.mughal@gmail.com
+me222758,Aqsa Raza,Mechanical Engineering,female,aqsa.raza@gmail.com
+me251552,Moiz Ali,Mechanical Engineering,male,moiz.ali@gmail.com
+me231152,Haroon Zaidi,Mechanical Engineering,male,haroon.zaidi@gmail.com
+me232152,Zubair Malik,Mechanical Engineering,male,zubair.malik@gmail.com
+me231118,Haroon Rafiq,Mechanical Engineering,male,haroon.rafiq65@gmail.com
+me252964,Furqan Rehman,Mechanical Engineering,male,furqan.rehman@gmail.com
+me232586,Anaya Javed,Mechanical Engineering,female,anaya.javed@outlook.com
+me241776,Fahad Gill,Mechanical Engineering,male,fahad.gill@gmail.com
+me241635,Kabir Nair,Mechanical Engineering,male,kabir.nair@gmail.com
+me251784,Abdullah Awan,Mechanical Engineering,male,abdullah.awan@gmail.com
+me231529,Fahad Arain,Mechanical Engineering,male,fahad.arain@gmail.com
+me221465,Owais Ahmed,Mechanical Engineering,male,owais.ahmed@gmail.com
+me242909,Ahmed Qureshi,Mechanical Engineering,male,ahmed.qureshi@gmail.com
+me241403,Adeel Tariq,Mechanical Engineering,male,adeel.tariq@gmail.com
+me242149,Shayan Butt,Mechanical Engineering,male,shayan.butt@gmail.com
+me221357,Saad Ansari,Mechanical Engineering,male,saad.ansari@gmail.com
+me242350,Raj Joshi,Mechanical Engineering,female,raj.joshi@gmail.com
+me242859,Kamran Gill,Mechanical Engineering,male,kamran.gill@gmail.com
+me252409,Kritika Trivedi,Mechanical Engineering,female,kritika.trivedi@gmail.com
+me232724,Huzaifa Chaudhry,Mechanical Engineering,male,huzaifa.chaudhry@gmail.com
+me232408,Waleed Khan,Mechanical Engineering,male,waleed.khan@gmail.com
+me231245,Iffat Mughal,Mechanical Engineering,female,iffat.mughal@gmail.com
+me221088,Minal Farooq,Mechanical Engineering,female,minal.farooq@gmail.com
+me231308,Saman Nazir,Mechanical Engineering,female,saman.nazir@gmail.com
+me242634,Adeel Malik,Mechanical Engineering,male,adeel.malik@gmail.com
+me222769,Hania Gill,Mechanical Engineering,female,hania.gill@gmail.com
+me241049,Fahad Mirza,Mechanical Engineering,male,fahad.mirza@gmail.com
+me251547,Ahmed Butt,Mechanical Engineering,male,ahmed.butt@gmail.com
+me251085,Abdullah Qureshi,Mechanical Engineering,male,abdullah.qureshi@yahoo.com
+me222443,Adnan Nazir,Mechanical Engineering,male,adnan.nazir@gmail.com
+me222898,Ammar Gill,Mechanical Engineering,male,ammar.gill39@gmail.com
+me241046,Noor Naqvi,Mechanical Engineering,female,noor.naqvi23@gmail.com
+me242882,Bilal Naqvi,Mechanical Engineering,male,bilal.naqvi@gmail.com
+me231268,Abdullah Bukhari,Mechanical Engineering,male,abdullah.bukhari@gmail.com
+me221096,Sneha Banerjee,Mechanical Engineering,male,sneha.banerjee@gmail.com
+me251949,Junaid Gill,Mechanical Engineering,male,junaid.gill@gmail.com
+me232107,Anaya Rafiq,Mechanical Engineering,female,anaya.rafiq@gmail.com
+me221705,Zainab Gill,Mechanical Engineering,female,zainab.gill@gmail.com
+me222780,Kabir Verma,Mechanical Engineering,male,kabir.verma@gmail.com
+me252912,Hafsa Rafiq,Mechanical Engineering,female,hafsa.rafiq@gmail.com
+me251300,Kamran Rizvi,Mechanical Engineering,male,kamran.rizvi@gmail.com
+me221537,Hadi Aslam,Mechanical Engineering,male,hadi.aslam@gmail.com
+me221995,Bilal Gill,Mechanical Engineering,male,bilal.gill@gmail.com
+me222060,Arooba Yousaf,Mechanical Engineering,female,arooba.yousaf@gmail.com
+me251534,Tanya Sharma,Mechanical Engineering,female,tanya.sharma@gmail.com
+me241044,Hafsa Aslam,Mechanical Engineering,female,hafsa.aslam@gmail.com
+me222862,Zubair Gill,Mechanical Engineering,male,zubair.gill@gmail.com
+ee252196,Iffat Hussain,Electrical Engineering,female,iffat.hussain@gmail.com
+ee222203,Sakshi Mishra,Electrical Engineering,male,sakshi.mishra@gmail.com
+ee222798,Laiba Ali,Electrical Engineering,female,laiba.ali@gmail.com
+ee231903,Bilal Arain,Electrical Engineering,male,bilal.arain@gmail.com
+ee251546,Nisha Singh,Electrical Engineering,male,nisha.singh@gmail.com
+ee222087,Ammar Abbasi,Electrical Engineering,male,ammar.abbasi@gmail.com
+ee232367,Yasir Qureshi,Electrical Engineering,male,yasir.qureshi@gmail.com
+ee251526,Neha Jain,Electrical Engineering,female,neha.jain@gmail.com
+ee242137,Furqan Gill,Electrical Engineering,male,furqan.gill@gmail.com
+ee251814,Kabir Desai,Electrical Engineering,female,kabir.desai@outlook.com
+ee222620,Shreya Gandhi,Electrical Engineering,male,shreya.gandhi@gmail.com
+ee232418,Usman Awan,Electrical Engineering,male,usman.awan@gmail.com
+ee231656,Zain Aslam,Electrical Engineering,male,zain.aslam@gmail.com
+ee252037,Aditya Iyer,Electrical Engineering,male,aditya.iyer@gmail.com
+ee232684,Sameer Mirza,Electrical Engineering,male,sameer.mirza@gmail.com
+ee241968,Neha Kapoor,Electrical Engineering,male,neha.kapoor@gmail.com
+ee222457,Ali Farooq,Electrical Engineering,male,ali.farooq@yahoo.com
+ee251494,Arnav Chopra,Electrical Engineering,female,arnav.chopra@gmail.com
+ee252623,Aarti Trivedi,Electrical Engineering,female,aarti.trivedi@gmail.com
+ee222951,Zain Yousaf,Electrical Engineering,male,zain.yousaf@gmail.com
+ee221777,Mustafa Zaidi,Electrical Engineering,male,mustafa.zaidi@gmail.com
+ee221808,Faizan Zaidi,Electrical Engineering,male,faizan.zaidi@yahoo.com
+ee221740,Shivam Verma,Electrical Engineering,male,shivam.verma@gmail.com
+ee231465,Radhika Nair,Electrical Engineering,female,radhika.nair@gmail.com
+ee222556,Sania Arain,Electrical Engineering,female,sania.arain@gmail.com
+ee222840,Anusha Mehmood,Electrical Engineering,female,anusha.mehmood@gmail.com
+ee241765,Dev Agarwal,Electrical Engineering,male,dev.agarwal@gmail.com
+ee251337,Usman Sheikh,Electrical Engineering,male,usman.sheikh@gmail.com
+ee242126,Mahesh Saxena,Electrical Engineering,male,mahesh.saxena@gmail.com
+ee251844,Sikandar Bukhari,Electrical Engineering,male,sikandar.bukhari@gmail.com
+ee222332,Arslan Nawaz,Electrical Engineering,male,arslan.nawaz@yahoo.com
+ee251704,Adeel Ahmed,Electrical Engineering,male,adeel.ahmed@gmail.com
+ee231505,Aarti Chatterjee,Electrical Engineering,male,aarti.chatterjee@gmail.com
+ee242397,Haroon Yousaf,Electrical Engineering,male,haroon.yousaf@gmail.com
+ee242650,Sikandar Tariq,Electrical Engineering,male,sikandar.tariq@gmail.com
+ee222706,Haroon Hussain,Electrical Engineering,male,haroon.hussain@gmail.com
+ee241754,Sakshi Jain,Electrical Engineering,female,sakshi.jain@gmail.com
+ee221379,Vivek Gandhi,Electrical Engineering,male,vivek.gandhi@gmail.com
+ee242850,Noman Naqvi,Electrical Engineering,male,noman.naqvi@gmail.com
+ee242013,Sameer Khan,Electrical Engineering,male,sameer.khan@outlook.com
+ee232261,Hafsa Yousaf,Electrical Engineering,female,hafsa.yousaf@yahoo.com
+ee252059,Umar Butt,Electrical Engineering,male,umar.butt@gmail.com
+ee232006,Abdullah Mirza,Electrical Engineering,male,abdullah.mirza@gmail.com
+ee222125,Shahid Ansari,Electrical Engineering,male,shahid.ansari@gmail.com
+ee252954,Zubair Zaidi,Electrical Engineering,male,zubair.zaidi@yahoo.com
+ee251205,Arjun Sharma,Electrical Engineering,male,arjun.sharma@gmail.com
+ee221698,Noman Gill,Electrical Engineering,male,noman.gill@gmail.com
+ee221683,Sameer Shah,Electrical Engineering,male,sameer.shah@outlook.com
+ee241411,Bushra Naqvi,Electrical Engineering,female,bushra.naqvi92@gmail.com
+ee242136,Vikram Bhatia,Electrical Engineering,female,vikram.bhatia94@gmail.com
+ee251635,Hassan Zaidi,Electrical Engineering,male,hassan.zaidi@gmail.com
+ee252800,Iqra Arain,Electrical Engineering,female,iqra.arain@gmail.com
+ee232083,Kashif Gill,Electrical Engineering,male,kashif.gill@gmail.com
+ee252426,Arslan Raza,Electrical Engineering,male,arslan.raza@gmail.com
+ee221997,Rizwan Rehman,Electrical Engineering,male,rizwan.rehman@gmail.com
+ee232372,Sadia Raza,Electrical Engineering,female,sadia.raza@gmail.com
+ee252113,Riya Trivedi,Electrical Engineering,male,riya.trivedi@gmail.com
+ee232607,Aditya Mukherjee,Electrical Engineering,female,aditya.mukherjee@gmail.com
+ee222365,Hania Zaidi,Electrical Engineering,female,hania.zaidi@gmail.com
+ee221492,Imran Shah,Electrical Engineering,male,imran.shah@gmail.com
+ee222634,Adnan Ahmed,Electrical Engineering,male,adnan.ahmed@gmail.com
+ee242300,Hamza Sheikh,Electrical Engineering,male,hamza.sheikh@gmail.com
+ee251552,Hassan Tariq,Electrical Engineering,male,hassan.tariq@gmail.com
+ee242206,Shivam Pandey,Electrical Engineering,male,shivam.pandey@gmail.com
+bba222440,Fahad Zaidi,Business Administration,male,fahad.zaidi@gmail.com
+bba221592,Azhar Rasheed,Business Administration,male,azhar.rasheed@gmail.com
+bba232701,Shahid Yousaf,Business Administration,male,shahid.yousaf@gmail.com
+bba231987,Saad Nazir,Business Administration,male,saad.nazir@gmail.com
+bba221258,Rehan Siddiqui,Business Administration,male,rehan.siddiqui@gmail.com
+bba231524,Sadia Mehmood,Business Administration,female,sadia.mehmood@gmail.com
+bba242034,Sania Zaidi,Business Administration,female,sania.zaidi@gmail.com
+bba242803,Kunal Gandhi,Business Administration,female,kunal.gandhi@gmail.com
+bba252559,Bilal Mirza,Business Administration,male,bilal.mirza@gmail.com
+bba231043,Ammar Mehmood,Business Administration,male,ammar.mehmood@gmail.com
+bba251111,Hadi Sheikh,Business Administration,male,hadi.sheikh@gmail.com
+bba231096,Usman Sheikh,Business Administration,male,usman.sheikh56@gmail.com
+bba241286,Ahmed Akhtar,Business Administration,male,ahmed.akhtar@gmail.com
+bba221290,Iqra Siddiqui,Business Administration,female,iqra.siddiqui@gmail.com
+bba231808,Mohit Bhatt,Business Administration,male,mohit.bhatt@gmail.com
+bba252632,Abdullah Sheikh,Business Administration,male,abdullah.sheikh@gmail.com
+bba252435,Meera Mehta,Business Administration,male,meera.mehta@gmail.com
+bba241424,Komal Ahmed,Business Administration,female,komal.ahmed@gmail.com
+bba231720,Asad Ali,Business Administration,male,asad.ali@gmail.com
+bba251688,Zain Ali,Business Administration,male,zain.ali@gmail.com
+bba232320,Arooba Akhtar,Business Administration,female,arooba.akhtar@gmail.com
+bba222728,Adeel Bukhari,Business Administration,male,adeel.bukhari@gmail.com
+bba251756,Shahmeer Farooq,Business Administration,male,shahmeer.farooq@gmail.com
+bba251029,Shiza Siddiqui,Business Administration,female,shiza.siddiqui@gmail.com
+bba242185,Arnav Gandhi,Business Administration,female,arnav.gandhi@yahoo.com
+bba252304,Naveed Javed,Business Administration,male,naveed.javed@outlook.com
+bba232282,Shivam Reddy,Business Administration,male,shivam.reddy@gmail.com
+bba222030,Ayesha Ali,Business Administration,female,ayesha.ali@yahoo.com
+bba252458,Karan Desai,Business Administration,male,karan.desai@outlook.com
+bba242967,Rohan Thakur,Business Administration,male,rohan.thakur@gmail.com
+bba221210,Ali Rehman,Business Administration,male,ali.rehman@yahoo.com
+bba252182,Ahmed Rajput,Business Administration,male,ahmed.rajput@gmail.com
+bba221863,Shahmeer Rehman,Business Administration,male,shahmeer.rehman@gmail.com
+bba251272,Shehryar Rajput,Business Administration,male,shehryar.rajput@gmail.com
+bba252777,Vikram Banerjee,Business Administration,male,vikram.banerjee@gmail.com
+bba252641,Mahesh Kumar,Business Administration,female,mahesh.kumar@gmail.com
+bba251371,Abdullah Farooq,Business Administration,male,abdullah.farooq@gmail.com
+bba232234,Rohan Reddy,Business Administration,male,rohan.reddy@gmail.com
+bba252068,Erum Rasheed,Business Administration,female,erum.rasheed@gmail.com
+bba241483,Gaurav Gupta,Business Administration,female,gaurav.gupta@gmail.com
+bba251185,Hassan Butt,Business Administration,male,hassan.butt@gmail.com
+bba251714,Aiman Zaidi,Business Administration,female,aiman.zaidi@gmail.com
+bba231881,Mahnoor Javed,Business Administration,female,mahnoor.javed@gmail.com
+bba252907,Shahid Ali,Business Administration,male,shahid.ali@gmail.com
+bba251475,Sameer Rizvi,Business Administration,male,sameer.rizvi@gmail.com
+bba231841,Imran Arain,Business Administration,male,imran.arain@gmail.com
+bba251932,Urooj Mehmood,Business Administration,female,urooj.mehmood@gmail.com
+bba252934,Sameer Akhtar,Business Administration,male,sameer.akhtar@gmail.com
+bba241960,Hamza Mehmood,Business Administration,male,hamza.mehmood@gmail.com
+bba221338,Suresh Gandhi,Business Administration,female,suresh.gandhi@gmail.com
+bba231307,Bushra Raza,Business Administration,female,bushra.raza@gmail.com
+bba222023,Sikandar Chaudhry,Business Administration,male,sikandar.chaudhry@gmail.com
+bba222907,Ahmed Rizvi,Business Administration,male,ahmed.rizvi@gmail.com
+bba241703,Ammar Awan,Business Administration,male,ammar.awan@gmail.com
+bba251370,Aditya Agarwal,Business Administration,male,aditya.agarwal@gmail.com
+bba221830,Khadija Awan,Business Administration,female,khadija.awan@gmail.com
+bba222109,Sikandar Javed,Business Administration,male,sikandar.javed@gmail.com
+bba241938,Haroon Gill,Business Administration,male,haroon.gill@gmail.com
+bba232298,Imran Tariq,Business Administration,male,imran.tariq@gmail.com
+bba242059,Ammar Javed,Business Administration,male,ammar.javed@gmail.com
+bba232212,Kamran Chaudhry,Business Administration,male,kamran.chaudhry@gmail.com
+bba251199,Ali Gill,Business Administration,male,ali.gill@gmail.com
+bba252629,Ayesha Naqvi,Business Administration,female,ayesha.naqvi@gmail.com
+bba231675,Azhar Siddiqui,Business Administration,male,azhar.siddiqui@outlook.com
+psy241540,Anum Khan,Psychology,female,anum.khan@gmail.com
+psy251224,Abdullah Nazir,Psychology,male,abdullah.nazir@gmail.com
+psy221643,Mustafa Qureshi,Psychology,male,mustafa.qureshi@gmail.com
+psy232008,Sadia Chaudhry,Psychology,female,sadia.chaudhry@gmail.com
+psy241507,Adeel Bukhari,Psychology,male,adeel.bukhari96@gmail.com
+psy222105,Sameer Mughal,Psychology,male,sameer.mughal@yahoo.com
+psy232558,Yasir Butt,Psychology,male,yasir.butt@gmail.com
+psy251353,Saad Javed,Psychology,male,saad.javed48@gmail.com
+psy252926,Dawood Rajput,Psychology,male,dawood.rajput@gmail.com
+psy231203,Sneha Iyer,Psychology,female,sneha.iyer@outlook.com
+psy251456,Nitin Gandhi,Psychology,male,nitin.gandhi@outlook.com
+psy221879,Mohit Saxena,Psychology,male,mohit.saxena@outlook.com
+psy241826,Kashif Gill,Psychology,male,kashif.gill73@gmail.com
+psy251619,Aarti Jain,Psychology,female,aarti.jain@gmail.com
+psy241151,Urooj Naqvi,Psychology,female,urooj.naqvi@gmail.com
+psy241613,Sania Bukhari,Psychology,female,sania.bukhari@gmail.com
+psy252999,Komal Ahmed,Psychology,female,komal.ahmed@yahoo.com
+psy241813,Rafay Arain,Psychology,male,rafay.arain@gmail.com
+psy221710,Noman Awan,Psychology,male,noman.awan@gmail.com
+psy231595,Adeel Rafiq,Psychology,male,adeel.rafiq@gmail.com
+psy251167,Yash Saxena,Psychology,male,yash.saxena@gmail.com
+psy231506,Sameer Nair,Psychology,female,sameer.nair@gmail.com
+psy232383,Haroon Arain,Psychology,male,haroon.arain@gmail.com
+psy232973,Shahmeer Akhtar,Psychology,male,shahmeer.akhtar@gmail.com
+psy222917,Shayan Ali,Psychology,male,shayan.ali@gmail.com
+psy241136,Pooja Gupta,Psychology,male,pooja.gupta@gmail.com
+psy242276,Zohaib Ansari,Psychology,male,zohaib.ansari@gmail.com
+psy252381,Nisha Kapoor,Psychology,male,nisha.kapoor@gmail.com
+psy251182,Ahsan Arain,Psychology,male,ahsan.arain@gmail.com
+psy251889,Samia Mirza,Psychology,female,samia.mirza@gmail.com
+psy232540,Junaid Shah,Psychology,male,junaid.shah@gmail.com
+psy221248,Umar Sheikh,Psychology,male,umar.sheikh@gmail.com
+psy231833,Aqsa Mirza,Psychology,female,aqsa.mirza@gmail.com
+psy251431,Fatima Siddiqui,Psychology,female,fatima.siddiqui@yahoo.com
+psy222477,Kritika Banerjee,Psychology,female,kritika.banerjee@gmail.com
+psy232192,Kritika Pandey,Psychology,male,kritika.pandey@gmail.com
+psy222028,Aditya Verma,Psychology,female,aditya.verma@gmail.com
+psy251390,Shayan Rajput,Psychology,male,shayan.rajput@gmail.com
+psy242945,Taha Ahmed,Psychology,male,taha.ahmed@gmail.com
+psy231202,Iqra Iqbal,Psychology,female,iqra.iqbal@gmail.com
+psy222290,Hadi Rajput,Psychology,male,hadi.rajput@gmail.com
+psy222065,Neha Joshi,Psychology,female,neha.joshi@gmail.com
+psy232733,Waleed Awan,Psychology,male,waleed.awan@gmail.com
+psy241054,Anum Ali,Psychology,female,anum.ali@gmail.com
+psy231236,Shehryar Saeed,Psychology,male,shehryar.saeed@gmail.com
+psy232391,Imran Rehman,Psychology,male,imran.rehman@gmail.com
+psy231003,Hadi Mehmood,Psychology,male,hadi.mehmood@gmail.com
+psy222728,Hassan Ansari,Psychology,male,hassan.ansari@gmail.com
+psy241692,Rehan Shah,Psychology,male,rehan.shah@gmail.com
+psy222288,Arslan Chaudhry,Psychology,male,arslan.chaudhry@gmail.com
+psy251089,Mohit Chatterjee,Psychology,female,mohit.chatterjee@gmail.com
+psy241071,Rafay Abbasi,Psychology,male,rafay.abbasi@gmail.com
+psy252410,Saba Chaudhry,Psychology,female,saba.chaudhry@gmail.com
+psy232715,Taha Shah,Psychology,male,taha.shah@gmail.com
+psy242910,Aditya Joshi,Psychology,male,aditya.joshi@gmail.com
+psy231299,Kamran Chaudhry,Psychology,male,kamran.chaudhry89@gmail.com
+psy242517,Gaurav Joshi,Psychology,male,gaurav.joshi@gmail.com
+psy222635,Ammar Ahmed,Psychology,male,ammar.ahmed@gmail.com
+psy252700,Erum Akhtar,Psychology,female,erum.akhtar@gmail.com
+psy251983,Mahesh Singh,Psychology,male,mahesh.singh@gmail.com
+psy222714,Rizwan Butt,Psychology,male,rizwan.butt@gmail.com
+psy241709,Rehan Nazir,Psychology,male,rehan.nazir@gmail.com
+psy221043,Shiza Mirza,Psychology,female,shiza.mirza@gmail.com
+psy222311,Noman Rafiq,Psychology,male,noman.rafiq@gmail.com

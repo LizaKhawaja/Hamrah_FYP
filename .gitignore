@@ -1,0 +1,59 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+!**/.env.example
+!**/.env.example.conf
+**/.env
+
+# Python virtual environments
+venv/
+venv1/
+venv_old/
+.venv/
+**/venv/
+**/venv1/
+**/venv_old/
+**/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Flutter and build output
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+dist/
+coverage/
+**/build/
+**/dist/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local executable
+ngrok.exe
+
+# Database files
+*.db
+
+# Secret key files
+firebase_key.json
+*-firebase-adminsdk-*.json
+google-services.json
+*.pem
+*.key

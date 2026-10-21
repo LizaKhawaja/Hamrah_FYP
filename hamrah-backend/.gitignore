@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+venv/
+.venv/
+
+# Environment variables (IMPORTANT)
+.env
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local SQLite test database
+hamrah_test.db
+
+# Uploads
+uploads/
+
+# Secrets (Firebase etc.)
+hamrah-notification-2a315-firebase-adminsdk-*.json
+venv/
+venv_old/
+__pycache__/
+*.pyc
+.env
+firebase_key.json
+*.db
+uploads/
+project-files.txt
